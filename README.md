@@ -5,13 +5,12 @@ This is a static website project for Artisan's Hearth Bakery, a fictional small 
 
 The project consists of five interconnected web pages with a consistent navigation system, responsive design, and user-friendly contact forms. All code is standards-compliant and well-documented.
 Student Information
-| Field | Details |
-| Student Name | [Sakhe September] |
-| Student Number | [ST10485499] |
-| Group | [Insert Your Group Number] |
-| Subject | Web Development |
-| Subject Code | [WEDE5020] |
-| Date | August 2026 |
+ Field | Details 
+ Student Name: Sakhe September
+ Student Number: ST10485499
+ Subject: Web Development
+ Subject: Code WEDE5020
+ Date: August 2026 
 
 Project Title
 
@@ -19,7 +18,7 @@ Artisan's Hearth Bakery Website
 
 Project Overview
 
-Organisation: Artisan's Hearth Bakery – a family-owned bakery specialising in artisan breads, pastries, and celebration cakes using traditional methods and locally sourced ingredients.
+Organization: Artisan's Hearth Bakery – a family-owned bakery specializing in artisan breads, pastries, and celebration cakes using traditional methods and locally sourced ingredients.
 
 Project Goals:
 1. Showcase the bakery's products and services
