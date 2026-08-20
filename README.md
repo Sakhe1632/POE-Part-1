@@ -5,7 +5,7 @@ This is a static website project for Artisan's Hearth Bakery, a fictional small 
 
 The project consists of five interconnected web pages with a consistent navigation system, responsive design, and user-friendly contact forms. All code is standards-compliant and well-documented.
 Student Information
- Field | Details 
+ Field Details 
  Student Name: Sakhe September
  Student Number: ST10485499
  Subject: Web Development
